@@ -1,6 +1,7 @@
 {
-  "name": "crud",
+  "name": "word-counter",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,8 +14,7 @@
     "express": "^4.16.4",
     "handlebars": "^4.0.12",
     "jquery": "^3.3.1",
-    "nodemon": "^1.18.8"
-  },
-  "devDependencies": {},
-  "description": ""
+    "nodemon": "^1.18.8",
+    "validator": "^10.9.0"
+  }
 }
